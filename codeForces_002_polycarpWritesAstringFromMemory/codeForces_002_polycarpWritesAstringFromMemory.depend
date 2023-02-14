@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1659189575 source:d:\documents\c programs\codeforces\codeforces_002_polycarpwritesastringfrommemory\main.c
+	<stdio.h>
+	<stdlib.h>
+

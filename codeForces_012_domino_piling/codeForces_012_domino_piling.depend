@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660913854 source:d:\documents\c programs\codeforces\codeforces_012_domino_piling\main.c
+	<stdio.h>
+	<stdlib.h>
+

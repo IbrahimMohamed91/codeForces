@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1659266849 source:d:\documents\c programs\codeforces\codeforces_003_threedoors\main.c
+	<stdio.h>
+	<stdlib.h>
+

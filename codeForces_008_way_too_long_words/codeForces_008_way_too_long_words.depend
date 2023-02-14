@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660338060 source:d:\documents\c programs\codeforces\codeforces_008_way_too_long_words\main.c
+	<stdio.h>
+	<stdlib.h>
+

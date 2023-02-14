@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1670676173 source:d:\documents\c programs\codeforces\codeforces_022_word_capitalization\main.c
+	<stdio.h>
+	<stdlib.h>
+

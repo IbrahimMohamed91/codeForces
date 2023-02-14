@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661874744 source:d:\documents\c programs\codeforces\codeforces_018_spell_check\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

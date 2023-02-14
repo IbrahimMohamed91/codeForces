@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1670684549 source:d:\documents\c programs\codeforces\codeforces_023_boy_or_girl\main.c
+	<stdio.h>
+	<stdlib.h>
+

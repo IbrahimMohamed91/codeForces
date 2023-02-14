@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660125685 source:d:\documents\c programs\codeforces\codeforces_006_minimum_varied_number\main.c
+	<stdio.h>
+	<stdlib.h>
+

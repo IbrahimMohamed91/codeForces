@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1670887252 source:d:\documents\c programs\codeforces\codeforces_024_stones_on_the_table\main.c
+	<stdio.h>
+	<stdlib.h>
+
